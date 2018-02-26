@@ -1,0 +1,4 @@
+theme = "hugo-lithium-theme"
+baseURL = "https://📦.purrple.cat"
+languageCode = "en-us"
+title = "My New Hugo Site"
